@@ -1,0 +1,1 @@
+C:\cs1300\bin\g++ %1.cpp -I"C:\cs1300\include" -L"C:\cs1300\lib"  -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -o %1.exe
